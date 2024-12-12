@@ -3,7 +3,7 @@
 ## How to run code
 1. Install or find a C++ complier
 
-2. Copy the code located in the main.cpp in the src folder
+2. Copy the code located in the main.cpp
 
 3. Replace any of the code located in the main function to test any functions further and then compile
 
